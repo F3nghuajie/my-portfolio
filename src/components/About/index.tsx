@@ -1,4 +1,3 @@
-import React from 'react';
 import { aboutCardsData } from '../../data';
 
 const About = () => (

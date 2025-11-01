@@ -1,4 +1,4 @@
-import React from 'react';
+ 
 import { LinkedInIcon, GitHubIcon } from '../icons';
 
 const Footer = () => (
