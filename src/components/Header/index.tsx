@@ -5,7 +5,7 @@ const Header = () => (
     <header className="sticky top-0 z-50 flex items-center justify-between whitespace-nowrap border-b border-solid border-white/10 bg-background-dark/80 px-4 py-3 backdrop-blur-sm sm:px-10" id="home">
       <div className="flex items-center gap-4 text-white">
         <span className="material-symbols-outlined text-primary text-2xl"> data_object </span>
-        <h2 className="text-white text-lg font-bold leading-tight tracking-[-0.015em]">John Doe</h2>
+        <h2 className="text-white text-lg font-bold leading-tight tracking-[-0.015em]">Leo Zhang</h2>
       </div>
       <nav className="hidden flex-1 justify-end gap-8 md:flex">
         <div className="flex items-center gap-9">

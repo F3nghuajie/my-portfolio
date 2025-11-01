@@ -15,7 +15,7 @@ const Footer = () => (
                     <GitHubIcon className="h-6 w-6" />
                 </a>
             </div>
-            <p className="text-sm text-gray-500 pt-4">© 2024 John Doe. All rights reserved.</p>
+            <p className="text-sm text-gray-500 pt-4">© 2024 Leo Zhang. All rights reserved.</p>
         </div>
     </footer>
 );
